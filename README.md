@@ -3,7 +3,15 @@
 #Description
 a basic quora page for practicing RESTFull API'S<br>
 
-#Installation
+#Installation<br>
+1. Clone the repo<br>
+in the terminal-<br>
+git clone https://github.com/Shubh1127/REST_CLASS.git<br>
+<br>
+// Install the dependencies:<br>
+npm install<br>
+<br>
+//OR YOU CAN DO MANUALLY--<br>
 // just go to the terminal and run these command or copy it<br>
 1.Express<br>
 npm i express<br>
